@@ -5,12 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Building my body👀
-- 🌱 I’m currently learning Java,python and php
-- 👯 I’m looking to collaborate on...
+- 🔭 I’m currently working on nothing as usual
+- 🌱 I’m currently learning JavaScript,python, html, css, mysql and php
 - 🤔 I’m looking for help with any thing
 - 💬 Ask me about anything
-- 📫 How to reach me: discord jeffry2#9303
+- 📫 How to reach me: @thirusony545@gmail.com
+* you should better spam in my inbox until i see them unless my reply will not come
 - 😄 Pronouns: he him
-- ⚡ Fun fact: im 16 and i am only single in my group🤭
 -->
