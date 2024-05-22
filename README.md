@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on nothing as usual
 - 🌱 I’m currently learning JavaScript,python, html, css, mysql and php
-- 🤔 I’m looking for help with any thing
 - 💬 Ask me about anything
 - 📫 How to reach me: @thirusony545@gmail.com
 * you should better spam in my inbox until i see them unless my reply will not come
